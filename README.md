@@ -16,8 +16,9 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">  
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
-  <img align="center" alt="" height="30" width="40" src="  https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg">  
+  <img align="center" alt="LiveWire" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg">  
   
+  <br>
 <!-- FRONTEND -->    
 https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
   <img align="center" alt="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
@@ -25,17 +26,20 @@ https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <br>
 
 <!-- DATABASES -->
 <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="MariaDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  <br>
 
 
 <!-- ANOTHER BACKENDS -->
 <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  
 <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">  
+  <br>
   
   <!-- MOBILE -->
 <img align="center" alt="" height="30" width="40" src="">  
@@ -43,6 +47,7 @@ https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
 <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">  
 <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">  
   
+  <br>
 
 <!-- ANOTHER FRAMEWORKS -->
 <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
