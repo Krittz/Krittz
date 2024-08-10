@@ -20,7 +20,7 @@
   
   <br>
 <!-- FRONTEND -->    
-https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
+  
   <img align="center" alt="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">  
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
