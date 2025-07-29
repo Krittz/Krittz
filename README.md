@@ -23,18 +23,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-| Projeto | Stack Principal | Descrição |
-|--------|----------------|-----------|
-| [`Bão ou Não`](https://github.com/josimarviana/baooubao) | JS, HTML, CSS | Sistema acadêmico com frontend puro e integração com API |
-| [`Shell Setup Dev`](https://github.com/Krittz/assistente-de-implantacao-de-servidores) | Shell, Docker, NGINX | Scripts para ambientes de dev automatizados |
-| [`Corretora Seguros`](https://github.com/krittz) (privado) | Vue, Laravel, Docker | Sistema institucional com integração full API |
-
-> ⚙️ Veja meu [portfólio completo](https://krittz.github.io/portifolio/) para detalhes e protótipos.
-
----
-
 ## 🧰 Minhas Stacks
 
 ### 🔙 Back-end
@@ -63,21 +51,16 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
 ---
-<h3 align="left">🚀 Tecnologias e Certificações</h3>
-<p align="left" style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FC494E?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pest-FF0080?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-Jenkins-orange?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</p>
 
+## 📌 Projetos em Destaque
+
+| Projeto | Stack Principal | Descrição |
+|--------|----------------|-----------|
+| [`Bão ou Não`](https://github.com/josimarviana/baooubao) | JS, HTML, CSS | Sistema acadêmico com frontend puro e integração com API |
+| [`Shell Setup Dev`](https://github.com/Krittz/assistente-de-implantacao-de-servidores) | Shell, Docker, NGINX | Scripts para ambientes de dev automatizados |
+| [`Corretora Seguros`](https://github.com/krittz) (privado) | Vue, Laravel, Docker | Sistema institucional com integração full API |
+
+> ⚙️ Veja meu [portfólio completo](https://krittz.github.io/portifolio/) para detalhes e protótipos.
 
 ---
 
