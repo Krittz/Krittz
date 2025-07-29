@@ -1,56 +1,85 @@
-## 👋 Hi, I’m Cristian Alves
-- 👀 I’m interested in technology...
-- 🌱 I’m currently learning web development...
-- 💞️ I try to collaborate on projects aimed at learning new developers in training...
-- 📫 How to reach me https://www.linkedin.com/in/cristian-alves-961491179/...
-  ##
-<div>
+<h1 align="center">👋 Olá, eu sou o Cristian Alves</h1>
+<p align="center">
+  Desenvolvedor FullStack | Especialista em Laravel, React, Node, Go & Docker 🧠💻<br>
+  Apaixonado por arquitetura limpa, testes e desenvolvimento com propósito 🚀
+</p>
+
+<div align="center">
   <a href="https://github.com/krittz">
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=krittz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krittz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-   <hr>
-  <div style="display: inline_block"><br>
-    
-### Profile Trhopies
-<img src="https://github-profile-trophy.vercel.app/?username=krittz&column=8&theme=darkhub&no-frame=true&no-bg=true" />
-
-  #### Main BackEnd   
-  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">  
-  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
-  <img align="center" alt="LiveWire" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg">  
-  
-  #### Main FrontEnd  
-  <img align="center" alt="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
-  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-
-  #### Databases
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MariaDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-
-  #### Another Backends
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  
-  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">  
-
-   #### Mobile
-  <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">  
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">  
-  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">  
-
-  #### Another Tech's
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Vite JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">  
- 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krittz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krittz&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
 </div>
 
-  
+---
 
+## 💡 Sobre mim
+
+- 🧠 **FullStack Developer** com forte domínio em **Laravel**, **React**, **Node.js**, **Go** e arquitetura escalável
+- 🛠️ **Experiência prática** em projetos reais com foco em Clean Architecture, TDD, automação com Docker e DevOps
+- 📚 Formado em Análise e Desenvolvimento de Sistemas pelo **IFTM**
+- 🔐 Foco total em **segurança, testes, performance e legibilidade**
+- 🌱 Atualmente me especializando em **infraestrutura moderna com Docker, AWS e CI/CD**
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Stack Principal | Descrição |
+|--------|----------------|-----------|
+| [`Bão ou Não`](https://github.com/krittz/bao-ou-nao) | JS, HTML, CSS | Sistema acadêmico com frontend puro e integração com API |
+| [`Shell Setup Dev`](https://github.com/krittz/shell-setup-dev) | Shell, Docker, NGINX | Scripts para ambientes de dev automatizados |
+| [`Corretora Seguros`](https://github.com/krittz) (privado) | Vue, Laravel, Docker | Sistema institucional com integração full API |
+
+> ⚙️ Veja meu [portfólio completo](https://krittz.github.io/portifolio/) para detalhes e protótipos.
+
+---
+
+## 🧰 Minhas Stacks
+
+### 🔙 Back-end
+![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🎨 Front-end
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### 🧱 Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### ⚙️ DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+
+---
+
+## 🏆 Conquistas no GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krittz&theme=darkhub&no-frame=true&no-bg=true&column=6"/>
+</p>
+
+---
+
+## 📞 Contato
+
+- 🌐 [Portfólio pessoal](https://krittz.github.io/portifolio/)
+- 💼 [LinkedIn](https://linkedin.com/in/cristian-alves-961491179/)
+- 💌 Email: contato@cran.com.br
+
+---
+
+<p align="center">
+  <i>“Código limpo é poesia que funciona.” – Cristian Alves</i>
+</p>
