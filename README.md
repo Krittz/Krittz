@@ -27,8 +27,8 @@
 
 | Projeto | Stack Principal | Descrição |
 |--------|----------------|-----------|
-| [`Bão ou Não`](https://github.com/krittz/bao-ou-nao) | JS, HTML, CSS | Sistema acadêmico com frontend puro e integração com API |
-| [`Shell Setup Dev`](https://github.com/krittz/shell-setup-dev) | Shell, Docker, NGINX | Scripts para ambientes de dev automatizados |
+| [`Bão ou Não`](https://github.com/josimarviana/baooubao) | JS, HTML, CSS | Sistema acadêmico com frontend puro e integração com API |
+| [`Shell Setup Dev`](https://github.com/Krittz/assistente-de-implantacao-de-servidores) | Shell, Docker, NGINX | Scripts para ambientes de dev automatizados |
 | [`Corretora Seguros`](https://github.com/krittz) (privado) | Vue, Laravel, Docker | Sistema institucional com integração full API |
 
 > ⚙️ Veja meu [portfólio completo](https://krittz.github.io/portifolio/) para detalhes e protótipos.
