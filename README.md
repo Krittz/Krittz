@@ -11,7 +11,9 @@
 </div>
    <hr>
   <div style="display: inline_block"><br>
-    
+### Profile Trhopies
+<img src="https://github-profile-trophy.vercel.app/?username=krittz&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+
   #### Main BackEnd   
   <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">  
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
