@@ -56,6 +56,7 @@
 
 | Projeto | Stack Principal | Descrição |
 |--------|----------------|-----------|
+| [`CSV-View`](https://github.com/krittz/csv-view) | React, TypeScript, Tailwindcss, Shadcn, Vite | Visualizador de arquivos CSV |
 | [`Bão ou Não`](https://github.com/josimarviana/baooubao) | JS, HTML, CSS | Sistema acadêmico com frontend puro e integração com API |
 | [`Shell Setup Dev`](https://github.com/Krittz/assistente-de-implantacao-de-servidores) | Shell, Docker, NGINX | Scripts para ambientes de dev automatizados |
 | [`Corretora Seguros`](https://github.com/krittz) (privado) | Vue, Laravel, Docker | Sistema institucional com integração full API |
