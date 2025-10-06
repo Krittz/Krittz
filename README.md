@@ -85,4 +85,5 @@
   <i>“Código limpo é poesia que funciona.” – Cristian Alves</i>
 </p>
 
-[](https://komarev.com/ghpvc/?username=krittz&label=PROFILE+VIEWS)
+![Profile view](https://komarev.com/ghpvc/?username=krittz)
+
